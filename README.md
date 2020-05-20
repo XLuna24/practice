@@ -1,6 +1,7 @@
-this is practice with echo
+This is my repo
 
+# Purpose
 
-this line has change, conflicts may arise
+The purpose of this repo is to practice with git and GitHub and to
 
-3rd line was added
+master it!
